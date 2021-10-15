@@ -26,3 +26,5 @@
 ```
 
 raise One of mushroom fruitbodies (hint: you can raise your own!): https://worldstissuesdaospore1.github.io/ #2 https://worldstissuesdaospore1.github.io/ 404
+
+PENDING, TO BE DONE: ACTUALLY APPEND THE TEXTS OF MENTIONED LICENSES INTO THIS MULTILICENSE TEXT. #1 https://github.com/WORLDSTISSUESDAOSPORE1/WORLDSTISSUESDAOSPORE1/blob/HOLOGRAM_ONE_FIRST_CELLAREA_WORLDSTISSUESDAOSPORE1/LICENSE
