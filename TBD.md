@@ -16,7 +16,7 @@
 * [PANAESREACTOR] @#any #Hermetics #theology #C #dos #BASIC #ASM #Lunacy #FourthWay #webdev @#complexities 
   #Retronauts @#holograms @#hologram @#drevleverie ~@#barada-home @#solarpunk @#timeflies ~@#PANAESREACTOR 
   #IdleRPG #LunarIRC @#infinitonos @#osdev #Unix @#infinitanyos @#Russian 
-* [PANAESREACTOR] luna.lunarirc.net :[ LunarIRC ]
+* [PANAESREACTOR] luna.lunarirc :[ LunarIRC ]
 * [PANAESREACTOR] is using modes +irx
 * [PANAESREACTOR] is logged in as PANAESREACTOR
 * [PANAESREACTOR] is a registered nick
