@@ -24,3 +24,5 @@
 * [PANAESREACTOR] idle 00:02:30, signon: Fri Oct 15 16:44:48
 * [PANAESREACTOR] End of WHOIS list.
 ```
+
+raise One of mushroom fruitbodies (hint: you can raise your own!): https://worldstissuesdaospore1.github.io/ #2 https://worldstissuesdaospore1.github.io/ 404
